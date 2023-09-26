@@ -1,5 +1,5 @@
 from rest_framework.routers import SimpleRouter
-from rest_api.views import RegisterModelViewSet
+import rest_api.views import RegisterModelViewSet
 from django.urls import path
 
 app_name = 'rest_api'
