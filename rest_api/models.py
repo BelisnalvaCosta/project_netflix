@@ -17,4 +17,3 @@ class Register(models.Model):
     class Meta:
         verbose_name = 'Registration forms'
         ordering = [date]
-
