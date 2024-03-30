@@ -1,6 +1,6 @@
 # project_netflix
 
-Neste projeto têm as etapas para construir um exemplo do clone "Netflix", com a orientação da Expert Isadora Ferrão(DIO.me)[^1].
+Neste projeto têm as etapas para construir um exemplo do clone "Netflix", com a orientação da Expert Isadora Ferrão(DIO.me) [^1].
 
 Este projeto foi feito no Visual Studio Code, na linguagem Python usando o Django.
 
